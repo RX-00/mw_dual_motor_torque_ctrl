@@ -1,6 +1,8 @@
 Dual Motor Torque Control
 =========================
 
+TODO: change code to support communication over USB instead of CAN, referring to the odri discourse [forum](https://odri.discourse.group/t/debugging-gui-python-my-dual-motor-torque-control-via-can-ti-launchpad/316/2)
+
 Firmware for the [Open Robot Actuator Motor
 Boards](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware)
 using comunication via CAN.
